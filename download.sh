@@ -91,5 +91,15 @@ if [ "$EXTENSION" = ".json" ]; then
   fi
 fi
 
+# Sort JSON array by id if applicable
+if [ "$EXTENSION" = ".json" ]; then
+  SORT_TEMP=$(mktemp)
+  if jq 'if type == "array" then sort_by(.id) else . end' "$TEMP_FILE" > "$SORT_TEMP" 2>/dev/null; then
+    mv "$SORT_TEMP" "$TEMP_FILE"
+  else
+    rm -f "$SORT_TEMP"
+  fi
+fi
+
 # Move to final destination
 mv "$TEMP_FILE" "$FULL_PATH"
