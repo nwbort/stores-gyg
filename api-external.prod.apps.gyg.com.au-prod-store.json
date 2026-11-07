@@ -36,23 +36,9 @@
       "storeName": "Newtown",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -116,6 +102,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -554,19 +554,9 @@
       "storeName": "Bondi Junction",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -626,6 +616,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -1060,19 +1060,9 @@
       "storeName": "Kings Cross",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -1132,6 +1122,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -1574,14 +1574,9 @@
       "storeName": "Australia Square",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -1636,6 +1631,11 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -2078,14 +2078,9 @@
       "storeName": "Martin Place",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -2140,6 +2135,11 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -2582,19 +2582,9 @@
       "storeName": "Westfield Sydney",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "17:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -2654,6 +2644,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "17:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -3084,19 +3084,9 @@
       "storeName": "Crows Nest",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -3156,6 +3146,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -3598,23 +3598,9 @@
       "storeName": "Canberra Centre",
       "storeTimeZone": "Australia/ACT",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:30"
-          },
-          {
-            "openTime": "10:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -3678,6 +3664,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:30"
+          },
+          {
+            "openTime": "10:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -4158,19 +4158,9 @@
       "storeName": "Hamilton",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -4230,6 +4220,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -4672,19 +4672,9 @@
       "storeName": "Manly Wharf",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -4744,6 +4734,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -5186,19 +5186,9 @@
       "storeName": "World Square",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -5258,6 +5248,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -5700,19 +5700,9 @@
       "storeName": "Rhodes",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:25"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -5772,6 +5762,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:25"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -6214,19 +6214,9 @@
       "storeName": "UNSW",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -6286,6 +6276,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -6720,19 +6720,9 @@
       "storeName": "Westfield Parramatta",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -6792,6 +6782,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -7230,19 +7230,9 @@
       "storeName": "Fountain Plaza",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -7302,6 +7292,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -7744,19 +7744,9 @@
       "storeName": "Charlestown Square",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "18:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -7816,6 +7806,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "18:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -8250,19 +8250,9 @@
       "storeName": "Westfield Belconnen",
       "storeTimeZone": "Australia/ACT",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -8322,6 +8312,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -8806,19 +8806,9 @@
       "storeName": "Shellharbour",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -8878,6 +8868,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -9320,23 +9320,9 @@
       "storeName": "Wetherill Park",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -9420,6 +9406,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -9862,19 +9862,9 @@
       "storeName": "MacArthur Square",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -9934,6 +9924,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -10368,19 +10368,9 @@
       "storeName": "Byron Bay",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -10440,6 +10430,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -10882,19 +10882,9 @@
       "storeName": "Wollongong Central",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -10954,6 +10944,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -11396,19 +11396,9 @@
       "storeName": "Wagga Wagga",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -11468,6 +11458,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -11910,23 +11910,9 @@
       "storeName": "Penrith",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -12010,6 +11996,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -12452,23 +12452,9 @@
       "storeName": "Top Ryde",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -12552,6 +12538,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -12994,19 +12994,9 @@
       "storeName": "Broadway",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -13066,6 +13056,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -13500,19 +13500,9 @@
       "storeName": "Narellan",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -13572,6 +13562,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -14006,14 +14006,9 @@
       "storeName": "Darling Park",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -14068,6 +14063,11 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -14502,19 +14502,9 @@
       "storeName": "ICC Darling Harbour",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -14574,6 +14564,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -15008,19 +15008,9 @@
       "storeName": "Hoxton Park",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -15080,6 +15070,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -15526,19 +15526,9 @@
       "storeName": "Gungahlin",
       "storeTimeZone": "Australia/ACT",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -15598,6 +15588,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -16086,19 +16086,9 @@
       "storeName": "Coffs Harbour",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -16158,6 +16148,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -16604,19 +16604,9 @@
       "storeName": "Bligh Park",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -16676,6 +16666,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -17122,19 +17122,9 @@
       "storeName": "Parramatta CBD",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -17194,6 +17184,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -17636,23 +17636,9 @@
       "storeName": "St Ives",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -17736,6 +17722,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -18174,23 +18174,9 @@
       "storeName": "Werrington",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -18274,6 +18260,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -18716,19 +18716,9 @@
       "storeName": "Maitland Greenhills",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -18788,6 +18778,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -19230,23 +19230,9 @@
       "storeName": "Dee Why",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -19330,6 +19316,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -19772,7 +19772,7 @@
       "storeName": "Fortitude Valley Emporium",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -20324,7 +20324,7 @@
       "storeName": "Broadbeach",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -20868,7 +20868,7 @@
       "storeName": "Carindale",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -21388,7 +21388,7 @@
       "storeName": "North Lakes",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -21912,7 +21912,7 @@
       "storeName": "Southbank",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -22426,7 +22426,7 @@
       "storeName": "Kawana",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -22960,7 +22960,7 @@
       "storeName": "Gladstone",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -23480,7 +23480,7 @@
       "storeName": "Windsor Homezone",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -23994,7 +23994,7 @@
       "storeName": "Logan Hyperdome",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -24510,7 +24510,7 @@
       "storeName": "Harbour Town",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -25044,7 +25044,7 @@
       "storeName": "Surfers Paradise",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -25578,7 +25578,7 @@
       "storeName": "Post Office Square",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -26082,7 +26082,7 @@
       "storeName": "Westfield Chermside",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -26592,7 +26592,7 @@
       "storeName": "Toowong Village",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -27102,7 +27102,7 @@
       "storeName": "South Toowoomba",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -27616,7 +27616,7 @@
       "storeName": "Domain Central Garbutt",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -28140,7 +28140,7 @@
       "storeName": "Bundaberg",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -28660,7 +28660,7 @@
       "storeName": "Nerang",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -29198,7 +29198,7 @@
       "storeName": "Rockhampton",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -29718,7 +29718,7 @@
       "storeName": "Buranda",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -30242,7 +30242,7 @@
       "storeName": "Griffith University",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -30766,7 +30766,7 @@
       "storeName": "Toowoomba Central",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -31282,7 +31282,7 @@
       "storeName": "Albany Creek",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -31810,7 +31810,7 @@
       "storeName": "Acacia Ridge",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -32338,7 +32338,7 @@
       "storeName": "Capalaba",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -32866,7 +32866,7 @@
       "storeName": "Browns Plains",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -33394,7 +33394,7 @@
       "storeName": "Augustine Heights",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -33932,7 +33932,7 @@
       "storeName": "Maroochydore",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -34468,7 +34468,7 @@
       "storeName": "Upper Coomera",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -35006,7 +35006,7 @@
       "storeName": "Burleigh Heads",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:09"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -35544,19 +35544,9 @@
       "storeName": "Highpoint",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:30",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -35616,6 +35606,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:30",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -36094,19 +36094,9 @@
       "storeName": "Swanston St",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -36166,6 +36156,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -36648,14 +36648,9 @@
       "storeName": "Collins Place",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -36710,6 +36705,11 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -37192,19 +37192,9 @@
       "storeName": "Fountain Gate",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -37264,6 +37254,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -37746,19 +37746,9 @@
       "storeName": "Werribee",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -37818,6 +37808,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -38300,19 +38300,9 @@
       "storeName": "567 Collins",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -38372,6 +38362,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -38854,23 +38854,9 @@
       "storeName": "South Yarra",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -38954,6 +38940,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -39432,19 +39432,9 @@
       "storeName": "Monash University",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -39504,6 +39494,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -39986,23 +39986,9 @@
       "storeName": "Hawthorn",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -40086,6 +40072,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -40568,19 +40568,9 @@
       "storeName": "Kennington",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -40640,6 +40630,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -41136,19 +41136,9 @@
       "storeName": "Moorabbin",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -41208,6 +41198,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -41694,14 +41694,9 @@
       "storeName": "Tullamarine",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -41767,6 +41762,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "05:30",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -42245,19 +42254,9 @@
       "storeName": "Cranbourne",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:09"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -42317,6 +42316,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -42803,19 +42812,9 @@
       "storeName": "Northbridge",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:09"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -42883,6 +42882,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -43315,19 +43324,9 @@
       "storeName": "Mount Lawley",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:09"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -43387,6 +43386,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -43819,19 +43828,9 @@
       "storeName": "Cockburn",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:09"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:30",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -43891,6 +43890,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:30",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -44323,19 +44332,9 @@
       "storeName": "Leederville",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:09"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -44395,6 +44394,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -44827,19 +44836,9 @@
       "storeName": "Belmont (WA)",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:09"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -44899,6 +44898,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -45327,19 +45336,9 @@
       "storeName": "Westfield Whitford",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "10:30",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -45399,6 +45398,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "10:30",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -45823,19 +45832,9 @@
       "storeName": "Rutherford",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -45895,6 +45894,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -46341,19 +46350,9 @@
       "storeName": "Bakewell",
       "storeTimeZone": "Australia/Darwin",
       "storeUtc": "+09:30",
-      "storeTimeDate": "2026-11-06T23:57:10"
+      "storeTimeDate": "2026-11-07T22:50:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -46413,6 +46412,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -46905,7 +46914,7 @@
       "storeName": "Rothwell",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -47433,7 +47442,7 @@
       "storeName": "Uni of QLD Refectory",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -47933,7 +47942,7 @@
       "storeName": "Victoria Point",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -48461,19 +48470,9 @@
       "storeName": "Eastland",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -48533,6 +48532,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -49015,7 +49024,7 @@
       "storeName": "Birtinya",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -49543,19 +49552,9 @@
       "storeName": "Kirrawee",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -49615,6 +49614,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -50049,19 +50058,9 @@
       "storeName": "Box Hill",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -50121,6 +50120,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -50603,7 +50612,7 @@
       "storeName": "Salisbury Downs",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -51171,7 +51180,7 @@
       "storeName": "Gouger St",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -51731,19 +51740,9 @@
       "storeName": "Lane Cove",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -51803,6 +51802,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -52245,14 +52254,9 @@
       "storeName": "Northpoint",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -52307,6 +52311,11 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -52745,19 +52754,9 @@
       "storeName": "Castle Towers",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -52817,6 +52816,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -53255,7 +53264,7 @@
       "storeName": "Bowen Hills",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -53783,7 +53792,7 @@
       "storeName": "Indooroopilly",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -54311,7 +54320,7 @@
       "storeName": "King William St",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -54875,7 +54884,7 @@
       "storeName": "Greenacres",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -55443,7 +55452,7 @@
       "storeName": "Arana Hills",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -55971,7 +55980,7 @@
       "storeName": "Helensvale",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -56537,19 +56546,9 @@
       "storeName": "Haynes",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -56609,6 +56608,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -57045,19 +57054,9 @@
       "storeName": "Heatherbrae",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -57117,6 +57116,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -57563,23 +57572,9 @@
       "storeName": "Seven Hills",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -57663,6 +57658,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -58109,23 +58118,9 @@
       "storeName": "Chatswood",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "10:25"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "22:45"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -58201,6 +58196,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "10:25"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "22:45"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -58643,19 +58652,9 @@
       "storeName": "Auburn",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -58715,6 +58714,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -59161,7 +59170,7 @@
       "storeName": "North Ipswich",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -59699,14 +59708,9 @@
       "storeName": "Kent St",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
@@ -59761,6 +59765,11 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -60195,23 +60204,9 @@
       "storeName": "Warners Bay",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -60295,6 +60290,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -60741,7 +60750,7 @@
       "storeName": "Glandore",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -61309,19 +61318,9 @@
       "storeName": "Carousel",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -61381,6 +61380,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -61817,19 +61826,9 @@
       "storeName": "Tarneit",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -61889,6 +61888,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -62375,19 +62384,9 @@
       "storeName": "Mildura",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -62447,6 +62446,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -62925,19 +62934,9 @@
       "storeName": "Kotara",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -62997,6 +62996,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -63439,19 +63448,9 @@
       "storeName": "Frenchs Forest",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:30",
-            "endTime": "21:25"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -63511,6 +63510,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:30",
+            "endTime": "21:25"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -63953,7 +63962,7 @@
       "storeName": "Valley Metro",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -64463,7 +64472,7 @@
       "storeName": "Bethania",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -64991,19 +65000,9 @@
       "storeName": "Casula",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -65063,6 +65062,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -65509,7 +65518,7 @@
       "storeName": "Bundall",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -66047,19 +66056,9 @@
       "storeName": "Croydon",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -66119,6 +66118,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -66605,7 +66614,7 @@
       "storeName": "Mount Barker",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -67183,7 +67192,7 @@
       "storeName": "Caloundra",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -67711,7 +67720,7 @@
       "storeName": "Richlands",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -68229,7 +68238,7 @@
       "storeName": "Pimpama",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -68767,7 +68776,7 @@
       "storeName": "Willows",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -69295,7 +69304,7 @@
       "storeName": "Linden Park",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -69863,7 +69872,7 @@
       "storeName": "Virginia",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -70377,19 +70386,9 @@
       "storeName": "Malvern East",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -70449,6 +70448,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -70935,23 +70944,9 @@
       "storeName": "North Melbourne",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -71035,6 +71030,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -71517,7 +71526,7 @@
       "storeName": "Hervey Bay",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -72045,7 +72054,7 @@
       "storeName": "Old Noarlunga",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -72613,19 +72622,9 @@
       "storeName": "Central Belmont",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -72685,6 +72684,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -73131,19 +73140,9 @@
       "storeName": "Burnside",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -73203,6 +73202,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -73689,19 +73698,9 @@
       "storeName": "Westmead",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:30",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -73761,6 +73760,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:30",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -74203,7 +74212,7 @@
       "storeName": "Rochedale",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -74721,19 +74730,9 @@
       "storeName": "Campbellfield Plaza",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -74793,6 +74792,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -75279,19 +75288,9 @@
       "storeName": "Warnbro",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -75351,6 +75350,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -75787,19 +75796,9 @@
       "storeName": "Pakenham",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -75859,6 +75858,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -76345,7 +76354,7 @@
       "storeName": "Morayfield",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -76873,19 +76882,9 @@
       "storeName": "Port Macquarie",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -76945,6 +76944,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -77391,7 +77400,7 @@
       "storeName": "Jindalee",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -77919,19 +77928,9 @@
       "storeName": "Braybrook",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -77991,6 +77990,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -78477,7 +78486,7 @@
       "storeName": "Southport Village",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -79015,19 +79024,9 @@
       "storeName": "Ascot",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -79087,6 +79086,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -79527,19 +79536,9 @@
       "storeName": "Orange",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -79599,6 +79598,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -80045,19 +80054,9 @@
       "storeName": "Moonee Ponds",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -80117,6 +80116,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -80599,19 +80608,9 @@
       "storeName": "Malaga",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -80671,6 +80670,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -81107,24 +81116,14 @@
       "storeName": "Lake Haven",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
-            "openTime": "08:00",
+            "openTime": "00:00",
             "endTime": "23:59"
           }
         ],
@@ -81179,6 +81178,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -81625,19 +81634,9 @@
       "storeName": "Stuart Park",
       "storeTimeZone": "Australia/Darwin",
       "storeUtc": "+09:30",
-      "storeTimeDate": "2026-11-06T23:57:10"
+      "storeTimeDate": "2026-11-07T22:50:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -81697,6 +81696,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -82203,7 +82212,7 @@
       "storeName": "Earlville",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -82731,7 +82740,7 @@
       "storeName": "Warner",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -83259,7 +83268,7 @@
       "storeName": "Robina",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -83797,23 +83806,9 @@
       "storeName": "Melton",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -83897,6 +83892,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -84383,7 +84392,7 @@
       "storeName": "Milton",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -84907,19 +84916,9 @@
       "storeName": "Fairy Meadow",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -84979,6 +84978,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -85425,7 +85434,7 @@
       "storeName": "Fairfield Waters",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -85953,7 +85962,7 @@
       "storeName": "Kippa-Ring",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -86481,19 +86490,9 @@
       "storeName": "Marrickville",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -86553,6 +86552,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -86995,19 +87004,9 @@
       "storeName": "Elsternwick",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -87071,6 +87070,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -87553,19 +87562,9 @@
       "storeName": "Unanderra",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -87625,6 +87624,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -88071,19 +88080,9 @@
       "storeName": "Leopold",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -88143,6 +88142,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -88639,19 +88648,9 @@
       "storeName": "Tamworth",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -88711,6 +88710,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -89157,7 +89166,7 @@
       "storeName": "Cleveland",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -89685,7 +89694,7 @@
       "storeName": "Cannon Hill",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -90213,19 +90222,9 @@
       "storeName": "Nowra",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -90285,6 +90284,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -90731,19 +90740,9 @@
       "storeName": "Five Dock",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -90803,6 +90802,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -91245,7 +91254,7 @@
       "storeName": "Yatala",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -91803,23 +91812,9 @@
       "storeName": "Fairfield (VIC)",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:55"
-          },
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -91883,6 +91878,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:55"
+          },
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -92365,19 +92374,9 @@
       "storeName": "Dubbo",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -92437,6 +92436,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -92883,7 +92892,7 @@
       "storeName": "Ripley",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -93411,19 +93420,9 @@
       "storeName": "Canning Vale",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -93483,6 +93482,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -93909,7 +93918,7 @@
       "storeName": "Wilsonton",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -94427,7 +94436,7 @@
       "storeName": "Molendinar",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -94955,7 +94964,7 @@
       "storeName": "Glenelg",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:57"
     },
     "tradingHours": [
       {
@@ -95521,23 +95530,9 @@
       "storeName": "Bondi Beach",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -95621,6 +95616,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -96003,7 +96012,7 @@
       "storeName": "Maryborough",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -96431,19 +96440,9 @@
       "storeName": "Tighes Hill",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -96503,6 +96502,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -96859,19 +96868,9 @@
       "storeName": "Brunswick",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -96931,6 +96930,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -97303,19 +97312,9 @@
       "storeName": "Wendouree",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -97375,6 +97374,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -97751,19 +97760,9 @@
       "storeName": "Kogarah",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -97823,6 +97822,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -98175,19 +98184,9 @@
       "storeName": "Roxburgh Park",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -98247,6 +98246,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -98623,19 +98632,9 @@
       "storeName": "Tuggerah",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -98695,6 +98694,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -99051,7 +99060,7 @@
       "storeName": "Rockhampton South",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -99479,7 +99488,7 @@
       "storeName": "Gympie",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:57"
     },
     "tradingHours": [
       {
@@ -99887,19 +99896,9 @@
       "storeName": "Carrum Downs",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:57"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -99959,6 +99958,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -100325,23 +100334,9 @@
       "storeName": "Warrawong",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -100425,6 +100420,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -100771,19 +100780,9 @@
       "storeName": "Umina",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:50"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -100843,6 +100842,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:50"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -101185,7 +101194,7 @@
       "storeName": "Dakabin",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -101593,7 +101602,7 @@
       "storeName": "Mount Pleasant",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -102001,19 +102010,9 @@
       "storeName": "Mount Annan",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -102073,6 +102072,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -102419,7 +102428,7 @@
       "storeName": "Palm Beach",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -102833,19 +102842,9 @@
       "storeName": "Aspendale Gardens",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -102905,6 +102904,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -103271,7 +103280,7 @@
       "storeName": "Murrumba Downs",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -103679,19 +103688,9 @@
       "storeName": "Baulkham Hills",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -103751,6 +103750,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -104093,19 +104102,9 @@
       "storeName": "Mosman",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -104165,6 +104164,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -104499,19 +104508,9 @@
       "storeName": "Mornington",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -104571,6 +104570,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -104887,19 +104896,9 @@
       "storeName": "Circular Quay",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -104959,6 +104958,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -105247,7 +105256,7 @@
       "storeName": "Albert Lane",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -105637,19 +105646,9 @@
       "storeName": "Oran Park ",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -105709,6 +105708,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -106035,19 +106044,9 @@
       "storeName": "Maroubra",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -106107,6 +106106,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -106421,7 +106430,7 @@
       "storeName": "BNE Service Centre",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -106775,7 +106784,7 @@
       "storeName": "Enoggera",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -107169,23 +107178,9 @@
       "storeName": "Fitzroy",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "09:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -107253,6 +107248,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "09:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -107561,19 +107570,9 @@
       "storeName": "Ashfield",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -107633,6 +107632,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -107947,7 +107956,7 @@
       "storeName": "Burpengary DT",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -108345,23 +108354,9 @@
       "storeName": "Grovedale",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -108445,6 +108440,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -108751,19 +108760,9 @@
       "storeName": "Mirrabooka",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -108823,6 +108822,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -109109,19 +109118,9 @@
       "storeName": "Sunbury",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -109181,6 +109180,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -109487,19 +109496,9 @@
       "storeName": "Sebastopol ",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -109559,6 +109558,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -109857,19 +109866,9 @@
       "storeName": "Punchbowl",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -109929,6 +109928,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -110225,23 +110234,9 @@
       "storeName": "Port Melbourne",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -110305,6 +110300,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -110607,19 +110616,9 @@
       "storeName": "Mona Vale",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -110679,6 +110678,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -110971,19 +110980,9 @@
       "storeName": "Albury",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -111043,6 +111042,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -111349,7 +111358,7 @@
       "storeName": "Chermside DT",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -111707,19 +111716,9 @@
       "storeName": "260 Flinders Street",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -111779,6 +111778,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -112081,19 +112090,9 @@
       "storeName": "Wodonga",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -112153,6 +112152,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -112459,19 +112468,9 @@
       "storeName": "Seaford ",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -112531,6 +112530,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -112833,19 +112842,9 @@
       "storeName": "Ellenbrook",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -112905,6 +112904,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -113183,19 +113192,9 @@
       "storeName": "Clyde North",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -113255,6 +113254,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -113561,7 +113570,7 @@
       "storeName": "Caboolture",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -113815,7 +113824,7 @@
       "storeName": "Underwood",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -114169,7 +114178,7 @@
       "storeName": "Logan City",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -114527,19 +114536,9 @@
       "storeName": "Eltham",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -114599,6 +114598,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -114901,7 +114910,7 @@
       "storeName": "Hendon",
       "storeTimeZone": "Australia/Adelaide",
       "storeUtc": "+10:30",
-      "storeTimeDate": "2026-11-07T00:57:10"
+      "storeTimeDate": "2026-11-07T23:50:58"
     },
     "tradingHours": [
       {
@@ -115209,19 +115218,9 @@
       "storeName": "Minto ",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -115281,6 +115280,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -115507,7 +115516,7 @@
       "storeName": "Mermaid Waters",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -115801,19 +115810,9 @@
       "storeName": "Bendigo",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -115873,6 +115872,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -116109,19 +116118,9 @@
       "storeName": "Dandenong North ",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -116185,6 +116184,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -116371,19 +116380,9 @@
       "storeName": "Bayswater North ",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -116443,6 +116442,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -116629,7 +116638,7 @@
       "storeName": "Collingwood Park",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -116887,19 +116896,9 @@
       "storeName": "Clayton Drive Thru",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -116959,6 +116958,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -117145,19 +117154,9 @@
       "storeName": "Dayton",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -117217,6 +117216,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -117393,19 +117402,9 @@
       "storeName": "Curtin University",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -117465,6 +117464,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -117633,19 +117642,9 @@
       "storeName": "Carlingford",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -117705,6 +117704,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -117887,19 +117896,9 @@
       "storeName": "Dickson",
       "storeTimeZone": "Australia/ACT",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -117959,6 +117958,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -118191,7 +118200,7 @@
       "storeName": "Glasshouse Mountains DT",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -118439,7 +118448,7 @@
       "storeName": "Smithfield",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -118687,19 +118696,9 @@
       "storeName": "Bateau Bay",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -118759,6 +118758,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -118945,19 +118954,9 @@
       "storeName": "Midland",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -119017,6 +119016,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -119193,7 +119202,7 @@
       "storeName": "Burleigh M1",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -119441,19 +119450,9 @@
       "storeName": "Bankstown Airport",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -119513,6 +119512,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -119699,7 +119708,7 @@
       "storeName": "Heathwood",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -119943,19 +119952,9 @@
       "storeName": "Cranebrook",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -120015,6 +120014,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -120197,7 +120206,7 @@
       "storeName": "Goodna",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -120441,23 +120450,9 @@
       "storeName": "Thornleigh",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:29"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -120541,6 +120536,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:29"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -120715,7 +120724,7 @@
       "storeName": "Coorparoo",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -120959,7 +120968,7 @@
       "storeName": "Baringa",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
@@ -121207,19 +121216,9 @@
       "storeName": "Thomastown",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -121279,6 +121278,16 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -121465,19 +121474,9 @@
       "storeName": "Wanneroo",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -121537,6 +121536,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -121709,23 +121718,9 @@
       "storeName": "Springvale",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:55"
-          },
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -121809,6 +121804,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:55"
+          },
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -121991,23 +122000,9 @@
       "storeName": "Gregory Hills",
       "storeTimeZone": "Australia/Sydney",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:29"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -122091,6 +122086,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:29"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -122273,19 +122282,9 @@
       "storeName": "Nedlands",
       "storeTimeZone": "Australia/Perth",
       "storeUtc": "+08:00",
-      "storeTimeDate": "2026-11-06T22:27:10"
+      "storeTimeDate": "2026-11-07T21:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Friday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-06"
-      },
       {
         "dayOfWeek": "Saturday",
         "timePeriods": [
@@ -122345,6 +122344,16 @@
           }
         ],
         "date": "2026-11-12"
+      },
+      {
+        "dayOfWeek": "Friday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-11-13"
       }
     ],
     "tags": [
@@ -122513,23 +122522,9 @@
       "storeName": "Wollert",
       "storeTimeZone": "Australia/Melbourne",
       "storeUtc": "+11:00",
-      "storeTimeDate": "2026-11-07T01:27:10"
+      "storeTimeDate": "2026-11-08T00:20:58"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:25"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-07"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -122613,6 +122608,20 @@
           }
         ],
         "date": "2026-11-13"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:25"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-11-14"
       }
     ],
     "tags": [
@@ -122791,7 +122800,7 @@
       "storeName": "Yarrabilba",
       "storeTimeZone": "Australia/Brisbane",
       "storeUtc": "+10:00",
-      "storeTimeDate": "2026-11-07T00:27:10"
+      "storeTimeDate": "2026-11-07T23:20:58"
     },
     "tradingHours": [
       {
