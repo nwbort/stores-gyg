@@ -21,20 +21,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -101,6 +87,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -151,16 +151,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -219,6 +209,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -266,16 +266,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -334,6 +324,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -387,11 +387,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -445,6 +440,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -498,11 +498,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -556,6 +551,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -609,16 +609,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "17:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -677,6 +667,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "17:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -720,16 +720,6 @@
       "storeTimeZone": "Australia/Sydney"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -789,6 +779,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -842,20 +842,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:30"
-          },
-          {
-            "openTime": "10:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -918,6 +904,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:30"
+          },
+          {
+            "openTime": "10:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -962,16 +962,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1030,6 +1020,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1083,16 +1083,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1151,6 +1141,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1203,16 +1203,6 @@
       "storeTimeZone": "Australia/Sydney"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -1272,6 +1262,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1325,16 +1325,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:25"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1393,6 +1383,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:25"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1446,16 +1446,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1514,6 +1504,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1561,16 +1561,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1629,6 +1619,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1679,16 +1679,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1747,6 +1737,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1799,16 +1799,6 @@
       "storeTimeZone": "Australia/Sydney"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "18:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -1868,6 +1858,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "18:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -1915,16 +1915,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -1983,6 +1973,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2030,16 +2030,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2098,6 +2088,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2151,20 +2151,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2247,6 +2233,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2300,16 +2300,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2368,6 +2358,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2415,16 +2415,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2483,6 +2473,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2536,16 +2536,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2604,6 +2594,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2657,16 +2657,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2725,6 +2715,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2778,20 +2778,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -2874,6 +2860,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -2927,20 +2927,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3023,6 +3009,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3076,16 +3076,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3144,6 +3134,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3191,16 +3191,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3259,6 +3249,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3306,11 +3306,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -3364,6 +3359,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3411,16 +3411,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3479,6 +3469,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3526,16 +3526,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3594,6 +3584,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3650,16 +3650,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3718,6 +3708,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3768,16 +3768,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3836,6 +3826,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -3892,16 +3892,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -3960,6 +3950,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4016,16 +4016,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4084,6 +4074,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4137,20 +4137,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4233,6 +4219,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4283,20 +4283,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4379,6 +4365,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4432,16 +4432,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4500,6 +4490,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4553,20 +4553,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4649,6 +4635,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4702,20 +4702,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4798,6 +4784,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4851,16 +4851,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -4919,6 +4909,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -4972,16 +4972,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:30",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5040,6 +5030,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:30",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5090,16 +5090,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:30",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5158,6 +5148,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:30",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5211,16 +5211,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5279,6 +5269,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5332,16 +5332,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5400,6 +5390,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5453,16 +5453,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5521,6 +5511,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5571,16 +5571,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5639,6 +5629,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5692,16 +5692,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5760,6 +5750,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5807,16 +5807,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5875,6 +5865,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -5928,16 +5928,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -5996,6 +5986,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6049,11 +6049,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -6107,6 +6102,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6160,16 +6160,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6228,6 +6218,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6278,16 +6278,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6346,6 +6336,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6396,16 +6396,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6464,6 +6454,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6517,16 +6517,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6585,6 +6575,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6638,16 +6638,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6706,6 +6696,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6756,16 +6756,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6824,6 +6814,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6880,16 +6880,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "09:00",
-            "endTime": "21:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -6948,6 +6938,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "09:00",
+            "endTime": "21:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -6998,16 +6998,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7066,6 +7056,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7119,11 +7119,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -7177,6 +7172,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7230,16 +7230,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7298,6 +7288,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7345,16 +7345,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7413,6 +7403,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7469,16 +7469,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7537,6 +7527,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7593,16 +7593,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7661,6 +7651,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7717,16 +7717,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7785,6 +7775,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7841,16 +7841,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -7909,6 +7899,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -7965,20 +7965,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8041,6 +8027,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8097,16 +8097,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8165,6 +8155,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8221,16 +8221,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8289,6 +8279,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8345,16 +8345,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:30",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8413,6 +8403,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:30",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8463,16 +8463,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8531,6 +8521,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8584,11 +8584,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -8642,6 +8637,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8695,16 +8695,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8763,6 +8753,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8816,16 +8816,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -8884,6 +8874,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -8937,16 +8937,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9005,6 +8995,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9058,20 +9058,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9154,6 +9140,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9204,16 +9204,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9272,6 +9262,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9325,20 +9325,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9421,6 +9407,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9474,16 +9474,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9542,6 +9532,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9598,16 +9598,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9666,6 +9656,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9722,20 +9722,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "05:30",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9818,6 +9804,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "05:30",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -9868,16 +9868,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -9936,6 +9926,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -10717,16 +10717,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -10785,6 +10775,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -10841,16 +10841,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -10909,6 +10899,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -10961,16 +10961,6 @@
       "storeTimeZone": "Australia/Brisbane"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -11030,6 +11020,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11086,11 +11086,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -11144,6 +11139,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11194,16 +11194,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11262,6 +11252,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11318,16 +11318,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11386,6 +11376,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11439,16 +11439,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11507,6 +11497,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11563,16 +11563,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11631,6 +11621,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11678,16 +11678,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11746,6 +11736,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11799,16 +11799,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11867,6 +11857,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -11923,16 +11923,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "11:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -11991,6 +11981,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "11:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12041,16 +12041,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -12109,6 +12099,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12162,11 +12162,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -12220,6 +12215,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12270,16 +12270,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "10:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -12338,6 +12328,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "10:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12388,16 +12388,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -12456,6 +12446,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12512,16 +12512,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -12580,6 +12570,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12636,16 +12636,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -12704,6 +12694,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12753,16 +12753,6 @@
       "storeTimeZone": "Australia/Adelaide"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -12822,6 +12812,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -12878,16 +12878,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -12946,6 +12936,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13002,20 +13002,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -13098,6 +13084,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13278,16 +13278,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -13346,6 +13336,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13402,20 +13402,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -13498,6 +13484,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13554,16 +13554,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -13622,6 +13612,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13678,16 +13678,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -13746,6 +13736,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13802,11 +13802,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [],
         "date": "2026-11-29"
@@ -13860,6 +13855,11 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -13907,20 +13907,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14003,6 +13989,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14059,16 +14059,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14127,6 +14117,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14307,16 +14307,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14375,6 +14365,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14431,16 +14431,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14499,6 +14489,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14549,16 +14549,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14617,6 +14607,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14670,16 +14670,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:30",
-            "endTime": "21:25"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14738,6 +14728,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:30",
+            "endTime": "21:25"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14791,16 +14791,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14859,6 +14849,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -14909,16 +14909,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -14977,6 +14967,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15033,16 +15033,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15101,6 +15091,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15157,16 +15157,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15225,6 +15215,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15281,16 +15281,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15349,6 +15339,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15405,16 +15405,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15473,6 +15463,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15529,16 +15529,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15597,6 +15587,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15653,16 +15653,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15721,6 +15711,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15777,16 +15777,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15845,6 +15835,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -15901,16 +15901,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -15969,6 +15959,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16025,16 +16025,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16093,6 +16083,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16149,16 +16149,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16217,6 +16207,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16270,16 +16270,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16338,6 +16328,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16394,20 +16394,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16490,6 +16476,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16543,16 +16543,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16611,6 +16601,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16667,16 +16667,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16735,6 +16725,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16791,16 +16791,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16859,6 +16849,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -16915,16 +16915,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -16983,6 +16973,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17039,16 +17039,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:30",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17107,6 +17097,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:30",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17160,16 +17160,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17228,6 +17218,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17284,16 +17284,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17352,6 +17342,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17532,16 +17532,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17600,6 +17590,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17656,16 +17656,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17724,6 +17714,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17780,16 +17780,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17848,6 +17838,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -17904,16 +17904,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -17972,6 +17962,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -18028,16 +18028,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -18096,6 +18086,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -18152,16 +18152,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -18220,6 +18210,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -18403,16 +18403,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -18471,6 +18461,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -18526,16 +18526,6 @@
       "storeTimeZone": "Australia/Melbourne"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -18595,6 +18585,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -18772,16 +18772,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -18840,6 +18830,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -18896,16 +18896,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -18964,6 +18954,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19020,16 +19020,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19088,6 +19078,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19144,16 +19144,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19212,6 +19202,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19268,16 +19268,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19336,6 +19326,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19392,20 +19392,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19466,10 +19452,6 @@
         "timePeriods": [
           {
             "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
             "endTime": "23:59"
           }
         ],
@@ -19480,14 +19462,20 @@
         "timePeriods": [
           {
             "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
             "endTime": "23:59"
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19544,16 +19532,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19612,6 +19590,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19665,16 +19653,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19733,6 +19711,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19789,16 +19777,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19857,6 +19835,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -19913,16 +19901,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -19981,6 +19959,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20037,16 +20025,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20105,6 +20083,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20158,16 +20146,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20226,6 +20204,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20279,16 +20267,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20347,6 +20325,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20403,16 +20391,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20471,6 +20449,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20527,16 +20515,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20595,6 +20573,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20651,16 +20639,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20719,6 +20697,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20775,16 +20763,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20843,6 +20821,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -20899,16 +20887,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -20967,6 +20945,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21023,16 +21011,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21091,6 +21069,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21144,16 +21132,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21212,6 +21190,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21268,20 +21256,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:55"
-          },
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21344,6 +21318,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:55"
+          },
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21397,16 +21385,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21465,6 +21443,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21521,16 +21509,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21589,6 +21567,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21769,16 +21757,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21837,6 +21815,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -21893,16 +21881,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -21961,6 +21939,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22017,20 +22005,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:55"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22093,6 +22067,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:55"
+          },
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22149,20 +22137,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22245,6 +22219,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22298,16 +22286,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22366,6 +22344,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22421,16 +22409,6 @@
       "storeTimeZone": "Australia/Sydney"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -22490,6 +22468,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22546,16 +22534,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22614,6 +22592,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22667,16 +22655,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22735,6 +22713,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22791,16 +22779,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22859,6 +22837,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -22912,16 +22900,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -22980,6 +22958,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23036,16 +23024,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23104,6 +23082,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23160,16 +23148,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23228,6 +23206,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23284,16 +23272,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23352,6 +23330,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23408,16 +23396,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23476,6 +23454,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23532,20 +23520,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:30"
-          },
-          {
-            "openTime": "10:31",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23628,6 +23602,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:30"
+          },
+          {
+            "openTime": "10:31",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23684,16 +23672,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:50"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23752,6 +23730,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:50"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23805,16 +23793,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23873,6 +23851,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -23929,16 +23917,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -23997,6 +23975,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24053,16 +24041,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24121,6 +24099,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24177,16 +24165,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24245,6 +24223,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24298,16 +24286,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24366,6 +24344,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24422,16 +24410,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24490,6 +24468,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24546,16 +24534,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24614,6 +24592,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24667,16 +24655,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24735,6 +24713,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24782,16 +24770,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24850,6 +24828,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -24906,16 +24894,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -24974,6 +24952,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25024,16 +25012,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25092,6 +25070,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25142,16 +25130,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25210,6 +25188,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25266,16 +25254,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25334,6 +25312,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25381,16 +25369,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25449,6 +25427,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25502,16 +25490,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25570,6 +25548,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25622,20 +25610,6 @@
       "storeTimeZone": "Australia/Melbourne"
     },
     "tradingHours": [
-      {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "02:00"
-          },
-          {
-            "openTime": "09:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
       {
         "dayOfWeek": "Sunday",
         "timePeriods": [
@@ -25703,6 +25677,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "02:00"
+          },
+          {
+            "openTime": "09:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25753,16 +25741,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25821,6 +25799,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25868,16 +25856,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -25936,6 +25914,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -25992,20 +25980,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26088,6 +26062,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -26276,16 +26264,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26344,6 +26322,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -26400,16 +26388,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26468,6 +26446,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -26518,16 +26506,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26586,6 +26564,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -26642,20 +26630,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "08:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26718,6 +26692,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "08:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -26771,16 +26759,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26839,6 +26817,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -26892,16 +26880,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -26960,6 +26938,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27016,16 +27004,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27084,6 +27062,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27140,16 +27128,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27208,6 +27186,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27261,16 +27249,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "21:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27329,6 +27307,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "21:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27385,16 +27373,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27453,6 +27431,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27652,16 +27640,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27720,6 +27698,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27776,16 +27764,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27844,6 +27822,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -27900,16 +27888,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -27968,6 +27946,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28021,16 +28009,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28089,6 +28067,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28145,16 +28133,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "21:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28213,6 +28191,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "21:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28266,16 +28254,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28334,6 +28312,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28390,16 +28378,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28458,6 +28436,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28514,16 +28502,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28582,6 +28560,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28635,16 +28623,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28703,6 +28681,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28759,16 +28747,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28827,6 +28805,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -28883,20 +28871,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "01:00"
-          },
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -28959,6 +28933,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "01:00"
+          },
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29015,16 +29003,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -29083,6 +29061,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29139,16 +29127,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -29207,6 +29185,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29505,16 +29493,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -29573,6 +29551,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29626,16 +29614,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -29694,6 +29672,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29747,16 +29735,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -29815,6 +29793,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29871,16 +29859,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -29939,6 +29917,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -29995,16 +29983,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30063,6 +30041,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -30251,16 +30239,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "05:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30319,6 +30297,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "05:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -30375,16 +30363,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30443,6 +30421,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -30499,16 +30487,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30567,6 +30545,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -30620,16 +30608,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30688,6 +30666,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -30741,16 +30729,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30809,6 +30787,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -30862,20 +30850,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:29"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "22:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -30958,6 +30932,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:29"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "22:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -31005,16 +30993,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -31073,6 +31051,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -31126,16 +31114,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -31194,6 +31172,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -31250,16 +31238,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -31318,6 +31296,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -31495,20 +31483,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "00:00",
-            "endTime": "00:55"
-          },
-          {
-            "openTime": "07:00",
-            "endTime": "23:59"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -31591,6 +31565,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "00:00",
+            "endTime": "00:55"
+          },
+          {
+            "openTime": "07:00",
+            "endTime": "23:59"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -31644,20 +31632,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "10:29"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "23:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -31740,6 +31714,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "10:29"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "23:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -31911,16 +31899,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "23:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -31979,6 +31957,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "23:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -32029,16 +32017,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "07:00",
-            "endTime": "22:55"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -32097,6 +32075,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "07:00",
+            "endTime": "22:55"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -32147,16 +32135,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -32215,6 +32193,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -32262,20 +32250,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "08:00",
-            "endTime": "10:25"
-          },
-          {
-            "openTime": "10:30",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -32358,6 +32332,20 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "08:00",
+            "endTime": "10:25"
+          },
+          {
+            "openTime": "10:30",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
@@ -32408,16 +32396,6 @@
     },
     "tradingHours": [
       {
-        "dayOfWeek": "Saturday",
-        "timePeriods": [
-          {
-            "openTime": "06:00",
-            "endTime": "22:00"
-          }
-        ],
-        "date": "2026-11-28"
-      },
-      {
         "dayOfWeek": "Sunday",
         "timePeriods": [
           {
@@ -32476,6 +32454,16 @@
           }
         ],
         "date": "2026-12-04"
+      },
+      {
+        "dayOfWeek": "Saturday",
+        "timePeriods": [
+          {
+            "openTime": "06:00",
+            "endTime": "22:00"
+          }
+        ],
+        "date": "2026-12-05"
       }
     ],
     "tags": [
